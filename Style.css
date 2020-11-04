@@ -1,0 +1,44 @@
+body{
+    background-color: #000000;
+}
+.cabecalho {
+    border-radius:4px;    
+    background: #5f0196; 
+    border:3px solid  rgb(0, 47, 255);
+    color: rgb(0, 0, 0); 
+    font-size: 24px;
+    width:100%;
+    height: 60px;
+  }    
+  .visor {
+    border-radius:4px;    
+    background: #5f0196;  
+    border:3px solid rgb(0, 47, 255);
+    font-size: 16px;
+    width:100%;
+    text-align: right;
+    height: 60px;
+    text-align: center;
+  }
+
+#tela {
+    width:100%;
+    height: 240px;   
+    background: rgb(184, 158, 245); 
+    border: 3px solid rgb(0, 47, 255); 
+    text-align: center;
+  }   
+  
+  #posicao {
+    position: absolute;
+    top: 30px;
+    left: 35%;
+  }
+
+  .botao {
+    border-radius:4px;
+    font-size: 16px;    
+    background: rgb(184, 158, 245); 
+    border:3px solid rgb(0, 47, 255);
+    width:75px;
+  }  
