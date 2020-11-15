@@ -1,3 +1,3 @@
 # Matriz-jquery
- Programa que gera uma matriz 5x5 de números aleatórios, possibilitando ver o maior, menor, soma e a media                                        
- feito com Jquery
+Program that generates a 5x5 matrix of random numbers, making it possible to see the largest, smallest, sum and media
+made with jquery
